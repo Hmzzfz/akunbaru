@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
-global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sig = 'https://instagram.com/_syidaa1'
+global.sgh = 'https://github.com/Hmzzfz'
+global.sgc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
+global.sdc = 'https://github.com/Hamzzfz'
+global.snh = 'https://youtube.com/c/HamzX PRESET'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'Gaada bang :v'
-global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
+global.pdana = '085890531178'
+global.povo = 'gada bang'
+global.pgopay = '085770736388'
+global.ppulsa = '085890531178'
+global.ppulsa2 = '085770736388'
 global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6285890531178'
+global.nomorown = '79832950355'
+global.namebot = 'HamzZBotz Ofc'
+global.nameown = 'X HamzX Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281264038909', 'X Ary Offcial', true]
+  ['79832950355', 'X HamzX Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 HamzBotz |Hamz Offcial⁩ 」' //Main Watermark
+global.wm2 = '    乂 Hamz Botz 乂     '
+global.wm3 = 'Hamz Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = 'HamzBotz-MD✯✯✯✯✯ '
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
+global.stickauth = `乂 YT:HamzBotz.|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
